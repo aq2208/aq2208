@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aq2208 - NGUYEN ANH QUAN
-- 🌱 I’m currently studying Software Engineering at FPT University (Ha Noi, Vietnam)
+- 🌱 I’m currently studying Software Engineering at FPT University (Hanoi, Vietnam)
 - 👀 I’m interested in becoming a Full-Stack Web Development
 - 📫 How to reach me: forwork.quanna@gmail.com
 - ✨ Social accounts: https://www.facebook.com/nguyenanh.quan.1610092/
