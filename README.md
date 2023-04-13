@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aq2208 - NGUYEN ANH QUAN
 - 🌱 I’m a Software Engineering student at FPT University (Hanoi, Vietnam)
-- 💚 I'm a passionate, energetic, sociable and confident individual who approaches work with a sense of responsibility and positivity. With an curious and eager-to-learn mindset, I'm hardworking and possess excellent self-learning skills.
+- 💚 I'm a passionate, energetic and confident individual who approaches work with a sense of responsibility and positivity. With an curious and eager-to-learn mindset, I'm hardworking and possess excellent self-learning skills.
 - 🎯 My goal is to become a Full-Stack Web Developer
 - 📫 How to reach me: forwork.quanna@gmail.com
 - ✨ Social accounts: https://www.facebook.com/nguyenanh.quan.1610092/
