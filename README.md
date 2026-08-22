@@ -50,8 +50,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aq2208&show_icons=true&theme=tokyonight&hide_border=true" alt="Quan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aq2208&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-taupe-two-96.vercel.app/api?username=aq2208&show_icons=true&theme=tokyonight&hide_border=true" alt="Quan's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-taupe-two-96.vercel.app/api/top-langs/?username=aq2208&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aq2208&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy-mu-tan.vercel.app/?username=aq2208&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
 </p>
 
 ### 🐍 Contribution Snake
