@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Quan (Ethan Nguyen)</h1>
-<h3 align="center">Software Engineer at Zalopay (VNG Corporation), building backend systems for a 16M-user e-wallet platform</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Zalopay+(VNG);Backend+%7C+Payments+%7C+Distributed+Systems;Building+the+OAO+onboarding+platform;Daily+Claude+Code+user+%F0%9F%A4%96" alt="Typing SVG" />
+  </a>
+</p>
 
 - 🔭 I'm currently building the **OAO onboarding flow & decision engine** (2M+ users, 63+ partner banks/brands) and working on **Bank Connector** integrations (50+ bank/financial partners) at Zalopay
 - 🏦 Previously at **VinID Pay (One Mount Group)**, building payment and merchant onboarding systems (Tpay, SoftPOS/Soundbox)
@@ -42,10 +47,43 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aq2208&show_icons=true&theme=tokyonight&hide_border=true" alt="Quan's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aq2208&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aq2208&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</p>
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aq2208&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aq2208/aq2208/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aq2208/aq2208/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aq2208/aq2208/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anhquan2208/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:forwork.quanna@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/anhquan2208/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:forwork.quanna@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <!---
 aq2208/aq2208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
